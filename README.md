@@ -1,1 +1,1 @@
-# email-verification-checker
+# email-verify
