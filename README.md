@@ -1,7 +1,7 @@
 
 # Email Address Verification
 
-This project provides a simple and effective solution for verifying email addresses using HTML and CSS.
+This project provides a simple and effective solution for verifying email addresses using JavaScript, HTML and CSS.
 
 ## Project Overview
 A basic email address verification interface, designed to validate user-entered email addresses and provide immediate feedback on their format and validity.
@@ -14,6 +14,7 @@ A basic email address verification interface, designed to validate user-entered 
 ## Technologies Used
 - HTML: The structure and components of the user interface.
 - CSS: Styling to enhance the visual presentation and user experience.
+- JavaScript: Validation logic for verifying the email address in real time.
 
 ## Usage
 To use this email address verification code, simply open the HTML file in a web browser. Enter an email address into the input field and click the verification button to initiate the validation process.
